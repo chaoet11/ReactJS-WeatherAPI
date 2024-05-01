@@ -6,6 +6,8 @@ A Live Weather (OpenWeather Free API) with React.
 
 ## 🔍 Function
 
+Get weather information through OpenWeather Free API.
+
 Enter the city to know the current weather.
 
 ## 🛠️ Technologies & Requirements
